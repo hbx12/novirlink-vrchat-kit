@@ -228,7 +228,6 @@ Discord Role ✗  →  Auto-removed from Allowlist after sync
 | النقطة | الرابط | ما ترجعه |
 |--------|--------|----------|
 | **Allowlist** | `/world/WORLD_KEY/allowlist.json` | قائمة الأسماء المربوطة |
-| **Global Allowlist** | `/world/global/allowlist.json` | أسماء كل السيرفرات |
 | **كل الصور** | `/world/WORLD_KEY/images.json` | قائمة JSON بكل الصور |
 | **صور Landscape** | `/world/WORLD_KEY/images-landscape.json` | صور أفقية فقط |
 | **صور Portrait** | `/world/WORLD_KEY/images-portrait.json` | صور عمودية فقط |
@@ -619,7 +618,6 @@ The platform provides ready-to-use endpoints:
 | Endpoint | URL | Returns |
 |----------|-----|----------|
 | **Allowlist** | `/world/WORLD_KEY/allowlist.json` | List of linked player names |
-| **Global Allowlist** | `/world/global/allowlist.json` | Names from all servers |
 | **All Images** | `/world/WORLD_KEY/images.json` | JSON list of all gallery images |
 | **Landscape Images** | `/world/WORLD_KEY/images-landscape.json` | Landscape images only |
 | **Portrait Images** | `/world/WORLD_KEY/images-portrait.json` | Portrait images only |
