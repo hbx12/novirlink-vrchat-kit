@@ -821,7 +821,7 @@ Write messages from the dashboard (announcements, rules, welcome text) and they 
 
 ---
 
-**NovirLink** — Bridging Discord × VRChat since 2024  
+**NovirLink** — Bridging Discord × VRChat since 2026  
 [novirlink.shop](https://novirlink.shop) · Built with ❤️ by novir studio
 
 ---
